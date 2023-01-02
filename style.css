@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.d1{
+    width: 5%;
+    margin: 1.25%;
+}
+
+.heading{
+    float: right;
+    padding-right: 35%;
+    margin-top: 2.15%;
+    font-size: 300%;
+}
+
+.container2{
+    margin-left: 32.5%;
+}
+
+.d2{
+    height: 4%;
+    width: 4%;
+    margin-right: 7%;
+}
+.line{
+    margin: 0.8%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 5px;
+    background-color: black;
+    border-radius: 15px;
+}
+.div1{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.div2{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+.flo{
+    margin-left: 35%;
+    margin-top: 20%;
+    font-size: 300%;
+    text-transform: capitalize;
+}
+.image{
+    width: 60%;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+
+
+.lin{
+    height: 5px;
+    background-color: black;
+    border-radius: 8px;
+    margin: 0.8%;
+    margin-top: 31%;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+.lon{
+    height: 5px;
+    background-color: black;
+    border-radius: 8px;
+    margin: 0.8%;
+    margin-left: 42%;
+    margin-right:42%;
+    margin-bottom: 4%;
+}
+
+.cc1{
+    width: 270px;
+    height:155px;
+    
+}
+
+.c1, .c2, .c3, .c4{
+    outline: solid 3px black;
+    width: 20%;
+    float: left;
+    margin-left: 4%;
+    border-radius: 15px;
+}
+
+.cc2{
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.b1, .b2, .b3, .b4{
+    
+    background: linear-gradient(to left,rgb(172, 107, 107),rgb(194, 148, 87));
+    width: 20%;
+    float: right;
+    margin-right: 4%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.bb1{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.tr{
+    float: left;
+    background-color: rgb(243, 243, 243);
+    width: 30%;
+    height: 40%;
+    margin-left: 2.5%;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.tr1{
+    margin-top: 20%;
+    font-size: 200%;
+    margin-bottom: 10%;
+
+}
+
+.ql1, .ql2, .ql3{
+    background-color: black;
+    float: left;
+    width: 33%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.link{
+    text-decoration: none;
+    color: gray;
+}
+ 
+.container8{
+    margin-left: 1%;
+}
+
+.pt{
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.ptt{
+    color: white;
+}
+
+.ptt2{
+    background-color: black;
+    color: white;
+}
+
+.vidcon{
+    width: 55%;
+    height:536.7px;
+    margin-left: 4%;
+    border-radius: 15px;
+    float: left;
+}
+
+
+.vidtitle{
+    margin-top: 2%;
+    margin-left: 3%;
+    font-size: 120%;
+    font-weight: 900;;
+
+}
+
+.recommended{
+    width: 30%;
+    height: 530px;
+    background-color: rgb(211, 206, 206);
+    float:right;
+    margin-top: 0.5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+
+.vid1{
+    height: 76px;
+    margin-bottom: 1.2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 7px;
+}
+
+.vidu{
+    width: 30%;
+    height: 75px;
+    float: left;
+}
+
+video{
+    border-radius: 10px;
+}
+
+.viduu{
+    float: left;
+    height: 75px;
+    width: 65%;
+}
+
+.viti{
+    margin-top: 3%;
+    margin-left: 1%;
+}
+
+.n{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
